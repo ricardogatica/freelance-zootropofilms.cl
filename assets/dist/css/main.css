@@ -16,7 +16,7 @@ header {
 
 main section {
   position: relative;
-  padding: 50px 0; }
+  padding: 150px 0; }
   main section .title {
     text-align: center; }
     main section .title h1 {
@@ -34,4 +34,6 @@ main section {
     text-align: center;
     color: #fff; }
   main section.what-we-do {
+    background-color: #fff; }
+  main section.gallery {
     background-color: #fff; }
